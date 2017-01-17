@@ -29,7 +29,7 @@
         "ext-gd": "*",
         "ext-dom": "*",
         "ext-mbstring": "*",
-        "phenx/php-font-lib": "0.4.*",
+        "phenx/php-font-lib": "dev-master",
         "phenx/php-svg-lib": "0.1.*"
     },
     "require-dev": {
