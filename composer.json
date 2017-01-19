@@ -30,7 +30,7 @@
         "ext-dom": "*",
         "ext-mbstring": "*",
         "phenx/php-font-lib": "dev-master",
-        "phenx/php-svg-lib": "0.1.*"
+        "phenx/php-svg-lib": "0.2.*"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
@@ -40,5 +40,6 @@
         "branch-alias": {
             "dev-develop": "0.7-dev"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
